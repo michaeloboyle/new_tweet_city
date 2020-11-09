@@ -26,7 +26,7 @@ gem 'rails_12factor'
 
 # backup and dependencies
 gem 'backup'
-gem 'excon', '~> 0.17.0'
+gem 'excon', '~> 0.78.0'
 gem 'net-ssh', '<= 2.5.2'
 gem 'net-scp', '<= 1.0.4'
 gem 'fog', '~> 1.9.0'

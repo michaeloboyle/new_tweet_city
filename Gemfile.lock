@@ -65,7 +65,7 @@ GEM
     diff-lcs (1.2.5)
     erubis (2.7.0)
     eventmachine (1.0.3)
-    excon (0.17.0)
+    excon (0.78.0)
     execjs (2.0.2)
     factory_girl (4.3.0)
       activesupport (>= 3.0.0)
@@ -248,7 +248,7 @@ DEPENDENCIES
   chunky_png
   coffee-rails (~> 4.0.0)
   color
-  excon (~> 0.17.0)
+  excon (~> 0.78.0)
   factory_girl_rails
   fog (~> 1.9.0)
   friendly_id!
